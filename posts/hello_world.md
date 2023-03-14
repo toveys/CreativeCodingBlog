@@ -17,4 +17,4 @@ This is my first blog post!
 
 This is what a variable 'framecount' looks like
 
-![waterfall](./images/waterfall.jpeg) this is an image
+![waterfall](../images/waterfall.jpeg) this is an image
