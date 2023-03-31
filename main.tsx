@@ -10,7 +10,7 @@ blog({
   // footer: <footer>Your custom footer</footer>,
   avatar: "./images/sky2.jpeg",
   avatarClass: "rounded-full",
-  author: "An author",
+  author: "Sean Tovey",
 
   // middlewares: [
 
