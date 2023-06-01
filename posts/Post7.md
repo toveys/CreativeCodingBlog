@@ -20,7 +20,7 @@ This experience incorporates our shared values of music, relaxation, and enterta
 To start off I researched Web Audio API which I would use in conjunction with the Canvas API to create visuals that could be affected by audio.
 I also used resources on YouTube, a channel called Frank's Laboratory had helped me create fractal based canvas drawings in my previous assignment and I once again used this channel to help me understand some of the Web Audio API features.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/VXWvfrmpapI" title="JavaScript Audio CRASH COURSE For Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/VXWvfrmpapI" title="JavaScript Audio CRASH COURSE For Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This video was an excellent place to get started, it was an hour long packed full of information and demonstrations that were a lot easier to understand visually as opposed to reading about them on MDN or Stack Oveflow. Frank's video was very helpful and I was surprised to see that they had less than 100k subscribers so I subscibed since they had helped me many times already. 
 
