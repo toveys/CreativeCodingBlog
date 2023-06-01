@@ -7,7 +7,7 @@ disable_html_sanitization: true
 # Prototype 2
 
 After a couple of days watching Coding Train videos, I found a great Coding train video where a guest named Emily Xie walked through the steps of creating their own Matrix inspired animation. 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/S1TQCi9axzg" title="Guest Tutorial #4: Matrix Digital Rain in p5.js with Emily Xie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/S1TQCi9axzg" title="Guest Tutorial #4: Matrix Digital Rain in p5.js with Emily Xie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 They also included another variation of their code on Github, which was their final piece that they tidied up. This version wasn't as legible as the
 one from the video but I did see some things in there that I thought could help me on my assignment. 
 <br></br>

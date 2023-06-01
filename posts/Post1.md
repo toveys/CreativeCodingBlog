@@ -28,7 +28,7 @@ initialization process. This was always fascinating to me and I knew for sure th
 
 The matrix title sequence is also quite iconic so I decided to combine those two experiences for my first prototype.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/Or2m7rYHb_Q" title="The Matrix (1999) Opening Titles/Ident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/Or2m7rYHb_Q" title="The Matrix (1999) Opening Titles/Ident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I used the green text on a black background along with randomly generated numbers in binary.
 
@@ -37,4 +37,4 @@ I used the green text on a black background along with randomly generated number
 This prototype was pretty simple and lacked the scrolling text like the Matrix had. I iterated along the x axis, and while doing so I iterated along the Y
 axis and printed a 1, 0, or no value at all randomly. I also had a random value generated for the colunm length so that the columns would look uneven. I wanted the RMIT text in the middle like the Matrix title, but I had trouble picking a color that wouldn't hurt to look at, and would also stand out from the chaos happening in the background. I chose red because of the RMIT color branding, but wasn't quite what I wanted. I knew that I would have to use arrays to create columns of values that could move down the screen instead of just printing in place, but I wasn't too sure on how to manipulate things inside an array, especially when there would be countless things, so I watched some Coding Train videos on them.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/pGkSHeEZLMU" title="7.3: Arrays of Objects - p5.js Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="385" src="https://www.youtube.com/embed/pGkSHeEZLMU" title="7.3: Arrays of Objects - p5.js Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
